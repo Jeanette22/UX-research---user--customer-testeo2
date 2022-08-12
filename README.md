@@ -68,6 +68,7 @@ Pasos:
 4. ¿Cómo podríamos alertar a los usuarios antes que su celulares exploten ?
 
 ![metodologia moskow](https://user-images.githubusercontent.com/80054717/184408231-270686d4-946f-4a24-83c9-b692ad87a9d0.png)
+
 fuente: SomosEdison.com
 
 Imagen: Luego de generar el HMW aplicamos el método "MosCoW" para seleccionar con el equipo la priorización de proyectos y/o Sprint a realizar.
@@ -88,9 +89,7 @@ Agrego una imagen de ejemplo aplicando todo esto para la app "Harry Potter - Hou
 
 ![priorizacion de accion](https://user-images.githubusercontent.com/80054717/184408894-bccbad48-5ea0-45ba-afac-28c5aa958009.png)
 
-![boceto lu benitez](https://user-images.githubusercontent.com/80054717/184411206-2bd5f8de-c9a9-442e-901d-53e2d7494dc0.jpg)![boceto mio](https://user-images.githubusercontent.com/80054717/184411215-9fc5859c-8d96-46c3-a46f-5f737c90397c.jpg)
-
-
+![boceto lu benitez](https://user-images.githubusercontent.com/80054717/184411842-9df79015-f691-4c81-8a0e-128b5d372434.jpg)![boceto mio](https://user-images.githubusercontent.com/80054717/184411846-3efef854-a610-49f3-b6ce-37f3136e5a74.jpg)
 
 ![ideacion](https://user-images.githubusercontent.com/80054717/184409206-df449157-e905-449b-bf05-61e83342a470.png)
 
