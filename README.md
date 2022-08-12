@@ -1,6 +1,8 @@
 # UX-research-user-customer-testeo2
 En este caso realizamos un proyecto durante el curso sobre una app que tenia poco uso, y en base a los datos proporcionados, los resultados fueron los siguientes: 
 
+![Portada - porfolio UX R harry Potter](https://user-images.githubusercontent.com/80054717/184411475-65d304bc-db4f-4057-a68b-42d16e0dec2b.jpeg)
+
 
 # Caso de estudio 2: App "Harry Potter: House Loyalty”
 ## Problema: Entre las 4 casas crearon una app de beneficios única pero las personas le dan poco uso
